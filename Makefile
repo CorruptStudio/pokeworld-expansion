@@ -36,7 +36,7 @@ else
 EXE :=
 endif
 
-TITLE       := POKEMON EMER
+TITLE       := POKEMON WORL
 GAME_CODE   := BPEE
 MAKER_CODE  := 01
 REVISION    := 0
@@ -68,12 +68,12 @@ else
   CPP := $(PREFIX)cpp
 endif
 
-ROM_NAME := pokeemerald.gba
+ROM_NAME := pokeworld.gba
 ELF_NAME := $(ROM_NAME:.gba=.elf)
 MAP_NAME := $(ROM_NAME:.gba=.map)
-OBJ_DIR_NAME := build/emerald
+OBJ_DIR_NAME := build/world
 
-MODERN_ROM_NAME := pokeemerald_modern.gba
+MODERN_ROM_NAME := pokeworld_modern.gba
 MODERN_ELF_NAME := $(MODERN_ROM_NAME:.gba=.elf)
 MODERN_MAP_NAME := $(MODERN_ROM_NAME:.gba=.map)
 MODERN_OBJ_DIR_NAME := build/modern
@@ -347,7 +347,7 @@ ifeq ($(DINFO),1)
 override CFLAGS += -g
 endif
 
-# The dep rules have to be explicit or else missing files won't be reported.
+# The dep rules have to be explicit or else missing files won't be reported. 
 # As a side effect, they're evaluated immediately instead of when the rule is invoked.
 # It doesn't look like $(shell) can be deferred so there might not be a better way.
 
@@ -498,7 +498,7 @@ endif
 check: $(TESTELF)
 	@cp $< $(HEADLESSELF)
 	$(PATCHELF) $(HEADLESSELF) gTestRunnerHeadless '\x01' gTestRunnerSkipIsFail "$(TEST_SKIP_IS_FAIL)"
-	$(ROMTESTHYDRA) $(ROMTEST) $(OBJCOPY) $(HEADLESSELF)
+	$(ROMTESTHYDRA) $(ROMTEST) $(OBJCOPY) $(HEADLESSELF)ZF9V-2EBM-E0XE-UHX6-3HAG
 
 libagbsyscall:
 	@$(MAKE) -C libagbsyscall TOOLCHAIN=$(TOOLCHAIN) MODERN=$(MODERN)
