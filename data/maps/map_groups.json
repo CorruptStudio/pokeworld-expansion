@@ -1,41 +1,43 @@
 {
   "group_order": [
-    "gMapGroup_TownsAndRoutes",
-    "gMapGroup_IndoorLittleroot",
-    "gMapGroup_IndoorOldale",
-    "gMapGroup_IndoorDewford",
-    "gMapGroup_IndoorLavaridge",
-    "gMapGroup_IndoorFallarbor",
-    "gMapGroup_IndoorVerdanturf",
-    "gMapGroup_IndoorPacifidlog",
-    "gMapGroup_IndoorPetalburg",
-    "gMapGroup_IndoorSlateport",
-    "gMapGroup_IndoorMauville",
-    "gMapGroup_IndoorRustboro",
-    "gMapGroup_IndoorFortree",
-    "gMapGroup_IndoorLilycove",
-    "gMapGroup_IndoorMossdeep",
-    "gMapGroup_IndoorSootopolis",
-    "gMapGroup_IndoorEverGrande",
-    "gMapGroup_IndoorRoute104",
-    "gMapGroup_IndoorRoute111",
-    "gMapGroup_IndoorRoute112",
-    "gMapGroup_IndoorRoute114",
-    "gMapGroup_IndoorRoute116",
-    "gMapGroup_IndoorRoute117",
-    "gMapGroup_IndoorRoute121",
-    "gMapGroup_Dungeons",
-    "gMapGroup_IndoorDynamic",
-    "gMapGroup_SpecialArea",
-    "gMapGroup_IndoorRoute104Prototype",
-    "gMapGroup_IndoorRoute109",
-    "gMapGroup_IndoorRoute110",
-    "gMapGroup_IndoorRoute113",
-    "gMapGroup_IndoorRoute123",
-    "gMapGroup_IndoorRoute119",
-    "gMapGroup_IndoorRoute124"
+    "Kanto_TownsAndRoutes",
+    "Kanto_PalletTown_Indoor",
+    "Hoenn_TownsAndRoutes",
+    "Hoenn_IndoorLittleroot",
+    "Hoenn_IndoorOldale",
+    "Hoenn_IndoorDewford",
+    "Hoenn_IndoorLavaridge",
+    "Hoenn_IndoorFallarbor",
+    "Hoenn_IndoorVerdanturf",
+    "Hoenn_IndoorPacifidlog",
+    "Hoenn_IndoorPetalburg",
+    "Hoenn_IndoorSlateport",
+    "Hoenn_IndoorMauville",
+    "Hoenn_IndoorRustboro",
+    "Hoenn_IndoorFortree",
+    "Hoenn_IndoorLilycove",
+    "Hoenn_IndoorMossdeep",
+    "Hoenn_IndoorSootopolis",
+    "Hoenn_IndoorEverGrande",
+    "Hoenn_IndoorRoute104",
+    "Hoenn_IndoorRoute111",
+    "Hoenn_IndoorRoute112",
+    "Hoenn_IndoorRoute114",
+    "Hoenn_IndoorRoute116",
+    "Hoenn_IndoorRoute117",
+    "Hoenn_IndoorRoute121",
+    "Hoenn_Dungeons",
+    "Hoenn_IndoorDynamic",
+    "Hoenn_SpecialArea",
+    "Hoenn_IndoorRoute104Prototype",
+    "Hoenn_IndoorRoute109",
+    "Hoenn_IndoorRoute110",
+    "Hoenn_IndoorRoute113",
+    "Hoenn_IndoorRoute123",
+    "Hoenn_IndoorRoute119",
+    "Hoenn_IndoorRoute124"
   ],
-  "gMapGroup_TownsAndRoutes": [
+  "Hoenn_TownsAndRoutes": [
     "PetalburgCity",
     "SlateportCity",
     "MauvilleCity",
@@ -94,21 +96,21 @@
     "Underwater_Route105",
     "Underwater_Route125"
   ],
-  "gMapGroup_IndoorLittleroot": [
+  "Hoenn_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",
     "LittlerootTown_BrendansHouse_2F",
     "LittlerootTown_MaysHouse_1F",
     "LittlerootTown_MaysHouse_2F",
     "LittlerootTown_ProfessorBirchsLab"
   ],
-  "gMapGroup_IndoorOldale": [
+  "Hoenn_IndoorOldale": [
     "OldaleTown_House1",
     "OldaleTown_House2",
     "OldaleTown_PokemonCenter_1F",
     "OldaleTown_PokemonCenter_2F",
     "OldaleTown_Mart"
   ],
-  "gMapGroup_IndoorDewford": [
+  "Hoenn_IndoorDewford": [
     "DewfordTown_House1",
     "DewfordTown_PokemonCenter_1F",
     "DewfordTown_PokemonCenter_2F",
@@ -116,7 +118,7 @@
     "DewfordTown_Hall",
     "DewfordTown_House2"
   ],
-  "gMapGroup_IndoorLavaridge": [
+  "Hoenn_IndoorLavaridge": [
     "LavaridgeTown_HerbShop",
     "LavaridgeTown_Gym_1F",
     "LavaridgeTown_Gym_B1F",
@@ -125,7 +127,7 @@
     "LavaridgeTown_PokemonCenter_1F",
     "LavaridgeTown_PokemonCenter_2F"
   ],
-  "gMapGroup_IndoorFallarbor": [
+  "Hoenn_IndoorFallarbor": [
     "FallarborTown_Mart",
     "FallarborTown_BattleTentLobby",
     "FallarborTown_BattleTentCorridor",
@@ -135,7 +137,7 @@
     "FallarborTown_CozmosHouse",
     "FallarborTown_MoveRelearnersHouse"
   ],
-  "gMapGroup_IndoorVerdanturf": [
+  "Hoenn_IndoorVerdanturf": [
     "VerdanturfTown_BattleTentLobby",
     "VerdanturfTown_BattleTentCorridor",
     "VerdanturfTown_BattleTentBattleRoom",
@@ -146,7 +148,7 @@
     "VerdanturfTown_FriendshipRatersHouse",
     "VerdanturfTown_House"
   ],
-  "gMapGroup_IndoorPacifidlog": [
+  "Hoenn_IndoorPacifidlog": [
     "PacifidlogTown_PokemonCenter_1F",
     "PacifidlogTown_PokemonCenter_2F",
     "PacifidlogTown_House1",
@@ -155,7 +157,7 @@
     "PacifidlogTown_House4",
     "PacifidlogTown_House5"
   ],
-  "gMapGroup_IndoorPetalburg": [
+  "Hoenn_IndoorPetalburg": [
     "PetalburgCity_WallysHouse",
     "PetalburgCity_Gym",
     "PetalburgCity_House1",
@@ -164,7 +166,7 @@
     "PetalburgCity_PokemonCenter_2F",
     "PetalburgCity_Mart"
   ],
-  "gMapGroup_IndoorSlateport": [
+  "Hoenn_IndoorSlateport": [
     "SlateportCity_SternsShipyard_1F",
     "SlateportCity_SternsShipyard_2F",
     "SlateportCity_BattleTentLobby",
@@ -180,7 +182,7 @@
     "SlateportCity_PokemonCenter_2F",
     "SlateportCity_Mart"
   ],
-  "gMapGroup_IndoorMauville": [
+  "Hoenn_IndoorMauville": [
     "MauvilleCity_Gym",
     "MauvilleCity_BikeShop",
     "MauvilleCity_House1",
@@ -190,7 +192,7 @@
     "MauvilleCity_PokemonCenter_2F",
     "MauvilleCity_Mart"
   ],
-  "gMapGroup_IndoorRustboro": [
+  "Hoenn_IndoorRustboro": [
     "RustboroCity_DevonCorp_1F",
     "RustboroCity_DevonCorp_2F",
     "RustboroCity_DevonCorp_3F",
@@ -209,7 +211,7 @@
     "RustboroCity_Flat2_3F",
     "RustboroCity_House3"
   ],
-  "gMapGroup_IndoorFortree": [
+  "Hoenn_IndoorFortree": [
     "FortreeCity_House1",
     "FortreeCity_Gym",
     "FortreeCity_PokemonCenter_1F",
@@ -221,7 +223,7 @@
     "FortreeCity_House5",
     "FortreeCity_DecorationShop"
   ],
-  "gMapGroup_IndoorLilycove": [
+  "Hoenn_IndoorLilycove": [
     "LilycoveCity_CoveLilyMotel_1F",
     "LilycoveCity_CoveLilyMotel_2F",
     "LilycoveCity_LilycoveMuseum_1F",
@@ -246,7 +248,7 @@
     "LilycoveCity_DepartmentStoreRooftop",
     "LilycoveCity_DepartmentStoreElevator"
   ],
-  "gMapGroup_IndoorMossdeep": [
+  "Hoenn_IndoorMossdeep": [
     "MossdeepCity_Gym",
     "MossdeepCity_House1",
     "MossdeepCity_House2",
@@ -261,7 +263,7 @@
     "MossdeepCity_GameCorner_1F",
     "MossdeepCity_GameCorner_B1F"
   ],
-  "gMapGroup_IndoorSootopolis": [
+  "Hoenn_IndoorSootopolis": [
     "SootopolisCity_Gym_1F",
     "SootopolisCity_Gym_B1F",
     "SootopolisCity_PokemonCenter_1F",
@@ -278,7 +280,7 @@
     "SootopolisCity_MysteryEventsHouse_1F",
     "SootopolisCity_MysteryEventsHouse_B1F"
   ],
-  "gMapGroup_IndoorEverGrande": [
+  "Hoenn_IndoorEverGrande": [
     "EverGrandeCity_SidneysRoom",
     "EverGrandeCity_PhoebesRoom",
     "EverGrandeCity_GlaciasRoom",
@@ -295,33 +297,33 @@
     "EverGrandeCity_PokemonCenter_2F",
     "EverGrandeCity_PokemonLeague_2F"
   ],
-  "gMapGroup_IndoorRoute104": [
+  "Hoenn_IndoorRoute104": [
     "Route104_MrBrineysHouse",
     "Route104_PrettyPetalFlowerShop"
   ],
-  "gMapGroup_IndoorRoute111": [
+  "Hoenn_IndoorRoute111": [
     "Route111_WinstrateFamilysHouse",
     "Route111_OldLadysRestStop"
   ],
-  "gMapGroup_IndoorRoute112": [
+  "Hoenn_IndoorRoute112": [
     "Route112_CableCarStation",
     "MtChimney_CableCarStation"
   ],
-  "gMapGroup_IndoorRoute114": [
+  "Hoenn_IndoorRoute114": [
     "Route114_FossilManiacsHouse",
     "Route114_FossilManiacsTunnel",
     "Route114_LanettesHouse"
   ],
-  "gMapGroup_IndoorRoute116": [
+  "Hoenn_IndoorRoute116": [
     "Route116_TunnelersRestHouse"
   ],
-  "gMapGroup_IndoorRoute117": [
+  "Hoenn_IndoorRoute117": [
     "Route117_PokemonDayCare"
   ],
-  "gMapGroup_IndoorRoute121": [
+  "Hoenn_IndoorRoute121": [
     "Route121_SafariZoneEntrance"
   ],
-  "gMapGroup_Dungeons": [
+  "Hoenn_Dungeons": [
     "MeteorFalls_1F_1R",
     "MeteorFalls_1F_2R",
     "MeteorFalls_B1F_1R",
@@ -431,7 +433,7 @@
     "AlteringCave",
     "MeteorFalls_StevensCave"
   ],
-  "gMapGroup_IndoorDynamic": [
+  "Hoenn_IndoorDynamic": [
     "SecretBase_RedCave1",
     "SecretBase_BrownCave1",
     "SecretBase_BlueCave1",
@@ -494,7 +496,7 @@
     "BattlePyramidSquare16",
     "UnionRoom"
   ],
-  "gMapGroup_SpecialArea": [
+  "Hoenn_SpecialArea": [
     "SafariZone_Northwest",
     "SafariZone_North",
     "SafariZone_Southwest",
@@ -585,14 +587,14 @@
     "NavelRock_Bottom",
     "TrainerHill_Elevator"
   ],
-  "gMapGroup_IndoorRoute104Prototype": [
+  "Hoenn_IndoorRoute104Prototype": [
     "Route104_Prototype",
     "Route104_PrototypePrettyPetalFlowerShop"
   ],
-  "gMapGroup_IndoorRoute109": [
+  "Hoenn_IndoorRoute109": [
     "Route109_SeashoreHouse"
   ],
-  "gMapGroup_IndoorRoute110": [
+  "Hoenn_IndoorRoute110": [
     "Route110_TrickHouseEntrance",
     "Route110_TrickHouseEnd",
     "Route110_TrickHouseCorridor",
@@ -607,18 +609,18 @@
     "Route110_SeasideCyclingRoadNorthEntrance",
     "Route110_SeasideCyclingRoadSouthEntrance"
   ],
-  "gMapGroup_IndoorRoute113": [
+  "Hoenn_IndoorRoute113": [
     "Route113_GlassWorkshop"
   ],
-  "gMapGroup_IndoorRoute123": [
+  "Hoenn_IndoorRoute123": [
     "Route123_BerryMastersHouse"
   ],
-  "gMapGroup_IndoorRoute119": [
+  "Hoenn_IndoorRoute119": [
     "Route119_WeatherInstitute_1F",
     "Route119_WeatherInstitute_2F",
     "Route119_House"
   ],
-  "gMapGroup_IndoorRoute124": [
+  "Hoenn_IndoorRoute124": [
     "Route124_DivingTreasureHuntersHouse"
   ],
   "connections_include_order": [
