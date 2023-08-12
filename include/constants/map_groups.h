@@ -6,6 +6,7 @@
 //
 
 // Kanto_TownsAndRoutes
+#define MAP_TEST_MAP (0 | (0 << 8))
 
 // Kanto_PalletTown_Indoor
 
