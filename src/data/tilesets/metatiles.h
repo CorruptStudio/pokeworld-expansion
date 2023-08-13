@@ -220,8 +220,5 @@ const u16 gMetatileAttributes_Pallet_Town[] = INCBIN_U16("data/tilesets/secondar
 const u16 gMetatiles_ViridianCity[] = INCBIN_U16("data/tilesets/secondary/viridian_city/metatiles.bin");
 const u16 gMetatileAttributes_ViridianCity[] = INCBIN_U16("data/tilesets/secondary/viridian_city/metatile_attributes.bin");
 
-const u16 gMetatiles_KantoBuilding1[] = INCBIN_U16("data/tilesets/secondary/kanto_building_1/metatiles.bin");
-const u16 gMetatileAttributes_KantoBuilding1[] = INCBIN_U16("data/tilesets/secondary/kanto_building_1/metatile_attributes.bin");
-
 const u16 gMetatiles_GenericBuilding1[] = INCBIN_U16("data/tilesets/secondary/generic_building_1/metatiles.bin");
 const u16 gMetatileAttributes_GenericBuilding1[] = INCBIN_U16("data/tilesets/secondary/generic_building_1/metatile_attributes.bin");

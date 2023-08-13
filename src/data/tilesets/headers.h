@@ -870,17 +870,6 @@ const struct Tileset gTileset_ViridianCity =
     .callback = NULL,
 };
 
-const struct Tileset gTileset_KantoBuilding1 =
-{
-    .isCompressed = TRUE,
-    .isSecondary = TRUE,
-    .tiles = gTilesetTiles_KantoBuilding1,
-    .palettes = gTilesetPalettes_KantoBuilding1,
-    .metatiles = gMetatiles_KantoBuilding1,
-    .metatileAttributes = gMetatileAttributes_KantoBuilding1,
-    .callback = NULL,
-};
-
 const struct Tileset gTileset_GenericBuilding1 =
 {
     .isCompressed = TRUE,
