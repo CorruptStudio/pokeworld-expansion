@@ -1,2 +1,2 @@
-NewMap1_MapScripts::
+PalletTown_MapScripts::
 	.byte 0
