@@ -39,10 +39,14 @@
     "Hoenn_IndoorRoute124"
   ],
   "Kanto_TownsAndRoutes": [
-    "TestMap"
+    "PalletTown",
+    "ViridianCity",
+    "Route1",
+    "Route2",
+    "Route22"
   ],
   "Kanto_PalletTown_Indoor": [
-
+    "PalletTown_PlayerHouse_1F"
   ],
   "Kanto_PewderCity_Indoor": [
 

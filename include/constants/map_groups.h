@@ -6,9 +6,14 @@
 //
 
 // Kanto_TownsAndRoutes
-#define MAP_TEST_MAP (0 | (0 << 8))
+#define MAP_PALLET_TOWN   (0 | (0 << 8))
+#define MAP_VIRIDIAN_CITY (1 | (0 << 8))
+#define MAP_ROUTE1        (2 | (0 << 8))
+#define MAP_ROUTE2        (3 | (0 << 8))
+#define MAP_ROUTE22       (4 | (0 << 8))
 
 // Kanto_PalletTown_Indoor
+#define MAP_PALLET_TOWN_PLAYER_HOUSE_1F (0 | (1 << 8))
 
 // Kanto_PewderCity_Indoor
 
